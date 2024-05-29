@@ -95,3 +95,6 @@ management:
     health:
       enabled: true
 
+
+vaadin:
+  urlMapping: "/vaadin/*"

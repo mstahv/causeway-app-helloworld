@@ -43,3 +43,4 @@ translations.pot
 /.apt_generated_tests/
 
 create-db-schema.sql
+frontend/generated
